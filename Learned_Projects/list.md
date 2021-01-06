@@ -4,3 +4,5 @@
 + [A Neural Layered Model for Nested Named Entity Recognition](https://github.com/thecharm/boundary-aware-nested-ner/tree/)
 + [NCRF++: An Open-source Neural Sequence Labeling Toolkit](https://github.com/jiesutd/NCRFpp)  
 * [A Unified MRC Framework for Named Entity Recognition](https://github.com/ShannonAI/mrc-for-flat-nested-ner)[to do...]
+* [Bidirectional Attention Flow for Machine Comprehension](https://github.com/techit-limtiyakul/bidirectional-attention-flow)[to do...]
+* [Bidirectional Attention Flow for Machine Comprehension](https://github.com/galsang/BiDAF-pytorch)
